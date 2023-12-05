@@ -1,0 +1,8 @@
+name: ServerCore
+main: hu.telcat.servercore.ServerCore
+version: 0.1
+author: Telcat Games
+api-version: 1.16
+depend:
+  - GroupManager
+commands:

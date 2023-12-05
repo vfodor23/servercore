@@ -1,0 +1,8 @@
+cerberus:
+  host: 0.0.0.0
+  port: 10001
+  enabled: false
+server:
+  name: Lobby1
+  group: mainLobby
+  type: LOBBY
